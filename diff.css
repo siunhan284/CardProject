@@ -1,0 +1,40 @@
+#MainMenu{
+	position: absolute;
+	left: 707.5px;
+	top: 240px;
+	width: 300px;
+	height: 65px;
+    border-radius: 10px;
+	background-color: #262626
+}
+#ez{
+	position: absolute;
+	left: 707.5px;
+	top: 310px;
+	width: 300px;
+	height: 65px;
+    border-radius: 10px;
+	background-color: #66ff00
+}
+#nor{
+	position: absolute;
+	left: 707.5px;
+	top: 380px;
+	width: 300px;
+	height: 65px;
+    border-radius: 10px;
+	background-color: #000000;
+}
+#diff{
+	position: absolute;
+	left: 707.5px;
+	top: 450px;
+	width: 300px;
+	height: 65px;
+    border-radius: 10px;
+	background-color: #ff0000
+}
+body{
+    background-image: url(Images/background.jpg);
+    background-size: 1715px 832px;
+}

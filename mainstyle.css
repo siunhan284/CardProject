@@ -1,0 +1,29 @@
+#start{
+	position: absolute;
+	left: 707.5px;
+	top: 340px;
+	width: 300px;
+	height: 65px;
+    border-radius: 10px;
+	background-color: rgba(64, 64, 64, 1);
+}
+#credit{
+	position: absolute;
+	left: 707.5px;
+	top: 415px;
+	width: 300px;
+	height: 65px;
+    border-radius: 10px;
+	background-color: rgba(64, 64, 64, 1);
+}
+body{
+    background-image: url(Images/background.png);
+    background-repeat: no-repeat;
+    background-size: 1715px 832px;
+}
+#Play{
+    color: black;
+    font-size: 40px;
+    margin-left: 818px;
+    margin-top: -100px;
+}
